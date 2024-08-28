@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\kubak\source\repos\GKOpenGL\includes\objects\airplane.h(41,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\kubak\source\repos\GKOpenGL\includes\objects\airplane.h(83,35): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\kubak\source\repos\GKOpenGL\includes\objects\airplane.h(84,33): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\kubak\source\repos\GKOpenGL\main.cpp(251,36): warning C4018: '<': signed/unsigned mismatch
+  GKOpenGL.vcxproj -> C:\Users\kubak\source\repos\GKOpenGL\x64\Debug\GKOpenGL.exe

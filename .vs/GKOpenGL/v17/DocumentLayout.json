@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kubak\\source\\repos\\GKOpenGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA908FA-5C13-4F09-957B-C8C4DF2C2AA9}|GKOpenGL.vcxproj|C:\\Users\\kubak\\source\\repos\\GKOpenGL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BEA908FA-5C13-4F09-957B-C8C4DF2C2AA9}|GKOpenGL.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\learnopengl\\shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:includes\\learnopengl\\shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\objects\\lightning_cube.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:includes\\objects\\lightning_cube.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA908FA-5C13-4F09-957B-C8C4DF2C2AA9}|GKOpenGL.vcxproj|C:\\USERS\\KUBAK\\SOURCE\\REPOS\\GKOPENGL\\INCLUDES\\OBJECTS\\AIRPLANE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BEA908FA-5C13-4F09-957B-C8C4DF2C2AA9}|GKOpenGL.vcxproj|solutionrelative:INCLUDES\\OBJECTS\\AIRPLANE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\objects\\floor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:includes\\objects\\floor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\objects\\cube.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:includes\\objects\\cube.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA908FA-5C13-4F09-957B-C8C4DF2C2AA9}|GKOpenGL.vcxproj|C:\\USERS\\KUBAK\\SOURCE\\REPOS\\GKOPENGL\\INCLUDES\\LEARNOPENGL\\CAMERA.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BEA908FA-5C13-4F09-957B-C8C4DF2C2AA9}|GKOpenGL.vcxproj|solutionrelative:INCLUDES\\LEARNOPENGL\\CAMERA.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 175,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lightning_cube.h",
+              "DocumentMoniker": "C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\objects\\lightning_cube.h",
+              "RelativeDocumentMoniker": "includes\\objects\\lightning_cube.h",
+              "ToolTip": "C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\objects\\lightning_cube.h",
+              "RelativeToolTip": "includes\\objects\\lightning_cube.h",
+              "ViewState": "AQIAACEAAAAAAAAAAAAUwGMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T19:26:18.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "floor.h",
+              "DocumentMoniker": "C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\objects\\floor.h",
+              "RelativeDocumentMoniker": "includes\\objects\\floor.h",
+              "ToolTip": "C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\objects\\floor.h",
+              "RelativeToolTip": "includes\\objects\\floor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T14:42:25.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "airplane.h",
+              "DocumentMoniker": "C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\objects\\airplane.h",
+              "RelativeDocumentMoniker": "includes\\objects\\airplane.h",
+              "ToolTip": "C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\objects\\airplane.h",
+              "RelativeToolTip": "includes\\objects\\airplane.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAANUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T13:31:34.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cube.h",
+              "DocumentMoniker": "C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\objects\\cube.h",
+              "RelativeDocumentMoniker": "includes\\objects\\cube.h",
+              "ToolTip": "C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\objects\\cube.h",
+              "RelativeToolTip": "includes\\objects\\cube.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-27T13:05:27.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "camera.h",
+              "DocumentMoniker": "C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\learnopengl\\camera.h",
+              "RelativeDocumentMoniker": "includes\\learnopengl\\camera.h",
+              "ToolTip": "C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\learnopengl\\camera.h",
+              "RelativeToolTip": "includes\\learnopengl\\camera.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-26T16:08:56.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shader.h",
+              "DocumentMoniker": "C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\learnopengl\\shader.h",
+              "RelativeDocumentMoniker": "includes\\learnopengl\\shader.h",
+              "ToolTip": "C:\\Users\\kubak\\source\\repos\\GKOpenGL\\includes\\learnopengl\\shader.h",
+              "RelativeToolTip": "includes\\learnopengl\\shader.h",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAJsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-26T15:39:16.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kubak\\source\\repos\\GKOpenGL\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\kubak\\source\\repos\\GKOpenGL\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAlwFoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T10:02:11.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

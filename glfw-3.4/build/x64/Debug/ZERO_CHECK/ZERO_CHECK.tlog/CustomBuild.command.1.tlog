@@ -1,0 +1,10 @@
+^C:\USERS\KUBAK\SOURCE\REPOS\GKOPENGL\GLFW-3.4\BUILD\CMAKEFILES\15FBE97F1C0A7A0FF3A52046901FC1A3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/kubak/source/repos/GKOpenGL/glfw-3.4 -BC:/Users/kubak/source/repos/GKOpenGL/glfw-3.4/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/kubak/source/repos/GKOpenGL/glfw-3.4/build/GLFW.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

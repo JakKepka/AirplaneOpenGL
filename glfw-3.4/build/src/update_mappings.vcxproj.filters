@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kubak\source\repos\GKOpenGL\glfw-3.4\build\CMakeFiles\3cec63c30a276d4f11a197eec6b4b256\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\kubak\source\repos\GKOpenGL\glfw-3.4\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\kubak\source\repos\GKOpenGL\glfw-3.4\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\kubak\source\repos\GKOpenGL\glfw-3.4\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\kubak\source\repos\GKOpenGL\glfw-3.4\build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1AE14826-F0F5-3A17-A8BC-B5DDD8C3D1DB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0BD63EDC-678A-3E0E-B73C-4140BAEA6169}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
